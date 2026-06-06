@@ -657,27 +657,27 @@ export default function App() {
             <p className="section-intro">Conheça as principais técnicas aplicadas no Duda Duarte Beauty Studio.</p>
             <div className="gallery-grid">
               <figure className="gallery-item">
-                <svg className="gallery-bg" viewBox="0 0 300 400" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice"><defs><linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stopColor="#2a1a0e"/><stop offset="50%" stopColor="#4b2d65"/><stop offset="100%" stopColor="#1a0e05"/></linearGradient></defs><rect width="300" height="400" fill="url(#g1)"/><ellipse cx="150" cy="140" rx="70" ry="50" fill="rgba(184,138,67,0.08)"/><ellipse cx="200" cy="260" rx="90" ry="60" fill="rgba(75,45,101,0.15)"/></svg>
+                <img src="/assets/gallery/volume-unica.jpg" alt="Volume Única" loading="lazy" />
                 <figcaption>Volume Única</figcaption>
               </figure>
               <figure className="gallery-item">
-                <svg className="gallery-bg" viewBox="0 0 300 400" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice"><defs><linearGradient id="g2" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stopColor="#11100f"/><stop offset="45%" stopColor="#3b1f52"/><stop offset="100%" stopColor="#221516"/></linearGradient></defs><rect width="300" height="400" fill="url(#g2)"/><ellipse cx="100" cy="180" rx="80" ry="55" fill="rgba(184,138,67,0.10)"/><ellipse cx="220" cy="300" rx="60" ry="80" fill="rgba(107,53,160,0.18)"/></svg>
+                <img src="/assets/gallery/volume-5d.jpg" alt="Volume 5D" loading="lazy" />
                 <figcaption>Volume 5D</figcaption>
               </figure>
               <figure className="gallery-item">
-                <svg className="gallery-bg" viewBox="0 0 300 400" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice"><defs><linearGradient id="g3" x1="0%" y1="100%" x2="100%" y2="0%"><stop offset="0%" stopColor="#0d0b09"/><stop offset="55%" stopColor="#5c2f7a"/><stop offset="100%" stopColor="#2a1530"/></linearGradient></defs><rect width="300" height="400" fill="url(#g3)"/><ellipse cx="160" cy="120" rx="100" ry="45" fill="rgba(255,250,244,0.04)"/><ellipse cx="80" cy="320" rx="70" ry="50" fill="rgba(184,138,67,0.12)"/></svg>
+                <img src="/assets/gallery/fox-new.jpg" alt="Fox" loading="lazy" />
                 <figcaption>Fox</figcaption>
               </figure>
               <figure className="gallery-item">
-                <svg className="gallery-bg" viewBox="0 0 300 400" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice"><defs><linearGradient id="g4" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stopColor="#1e1209"/><stop offset="50%" stopColor="#44205f"/><stop offset="100%" stopColor="#11100f"/></linearGradient></defs><rect width="300" height="400" fill="url(#g4)"/><ellipse cx="200" cy="150" rx="85" ry="60" fill="rgba(184,138,67,0.09)"/><ellipse cx="100" cy="280" rx="75" ry="55" fill="rgba(75,45,101,0.20)"/></svg>
+                <img src="/assets/gallery/volume-brasileiro-new.jpg" alt="Volume Brasileiro" loading="lazy" />
                 <figcaption>Volume Brasileiro</figcaption>
               </figure>
               <figure className="gallery-item">
-                <svg className="gallery-bg" viewBox="0 0 300 400" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice"><defs><linearGradient id="g5" x1="100%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stopColor="#251508"/><stop offset="50%" stopColor="#3b1d52"/><stop offset="100%" stopColor="#0d0b09"/></linearGradient></defs><rect width="300" height="400" fill="url(#g5)"/><ellipse cx="150" cy="200" rx="95" ry="65" fill="rgba(184,138,67,0.07)"/><ellipse cx="240" cy="340" rx="55" ry="45" fill="rgba(107,53,160,0.14)"/></svg>
+                <img src="/assets/gallery/fio-a-fio-new.jpg" alt="Fio a Fio" loading="lazy" />
                 <figcaption>Fio a Fio</figcaption>
               </figure>
               <figure className="gallery-item">
-                <svg className="gallery-bg" viewBox="0 0 300 400" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice"><defs><linearGradient id="g6" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stopColor="#1a0e24"/><stop offset="45%" stopColor="#6b35a0"/><stop offset="100%" stopColor="#11100f"/></linearGradient></defs><rect width="300" height="400" fill="url(#g6)"/><ellipse cx="120" cy="160" rx="90" ry="55" fill="rgba(255,250,244,0.05)"/><ellipse cx="210" cy="300" rx="70" ry="60" fill="rgba(184,138,67,0.13)"/></svg>
+                <img src="/assets/gallery/capping-5d-new.jpg" alt="Capping 5D" loading="lazy" />
                 <figcaption>Capping 5D</figcaption>
               </figure>
             </div>
